@@ -5,5 +5,5 @@ def square_array(array)
   array.each do |number|
     array << (number ** 2)
   end
-  binding.pry
+#  binding.pry
 end
